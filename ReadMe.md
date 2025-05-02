@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>👂 My name is Sepehr<br>👩 Pronouns: He/Him<br>🔭 I’m working on FiveM servers and Discord bots<br>🌱 I’m currently learning front-end<br>🤝 I’m looking to collaborate on programming team<br>💬 Ask me about your problems in discord.py or python<br>📫 How to reach me:  Discord(adsepehr) or Gmail(sepehrakhtardanesh@gmail.com)<br>❤️ I love programming
+Hi there 👋<br>👂 My name is Sepehr<br>👩 Pronouns: He/Him<br>🔭 I’m working on web & software developing.<br>🌱 I’m currently learning front-end.<br>🤝 I’m looking to collaborate on programming team.<br>📫 How to reach me:  Discord(adsepehr) or Gmail(sepehrakhtardanesh@gmail.com)
 
 
 ## 🌐 Socials:
